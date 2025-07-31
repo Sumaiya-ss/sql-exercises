@@ -1,8 +1,16 @@
-# sql-exercises
-sqlbolt-practice/
-├── 01_select_basics.sql
-├── 02_filtering.sql
-├── 03_aggregate_functions.sql
-├── 04_joins.sql
-├── 05_grouping.sql
-├── README.md
+# SQLBolt Practice
+
+This repository contains my solutions and notes from [SQLBolt](https://sqlbolt.com/), a beginner-friendly SQL learning platform.
+
+## Contents
+
+- Basic SELECT statements
+- WHERE filters and logical operators
+- Aggregations (COUNT, SUM, AVG, etc.)
+- GROUP BY and HAVING
+- Joins (INNER, LEFT, RIGHT)
+- Subqueries (coming soon)
+
+## Purpose
+
+Practicing SQL syntax, improving query writing, and building a personal SQL reference.
